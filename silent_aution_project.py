@@ -15,7 +15,7 @@ def find_winner(bitter_details):
 
 
 bidder_data={}
-end_of_bidding=False 
+end_of_bidding=False
 while not end_of_bidding:
     name=input("what is your name?:\n")
     price=int(input("what is your bid price?:\n"))
